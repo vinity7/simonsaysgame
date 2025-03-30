@@ -106,5 +106,8 @@ function resetGame(){
 }
 
 
+// now this project i suploaded to the github
+
+
 
     
